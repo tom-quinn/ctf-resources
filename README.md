@@ -24,3 +24,6 @@ http://the2702.com/
 
 ### python-paddingoracle
 https://github.com/mwielgoszewski/python-paddingoracle
+
+### CryptoPal
+https://github.com/lanjelot/cryptopal
