@@ -21,3 +21,6 @@ http://doc.sagemath.org/html/en/reference/
 
 ### The 2702's Writeups
 http://the2702.com/
+
+### python-paddingoracle
+https://github.com/mwielgoszewski/python-paddingoracle
